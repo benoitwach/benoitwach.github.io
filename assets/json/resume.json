@@ -34,6 +34,17 @@
       "highlights": ["Expertise in medical robotics and additive manufacturing, Management of a mechatronic and electronic prototyping workshop, Support for interdisciplinary research teams, Project management: ANR, SATT, ITI HealthTech"]
     }
   ],
+    "Past work": [
+    {
+      "name": "University of Strasbourg - ICube Laboratory (UMR 7357), Strasbourg",
+      "position": "Research Engineer",
+      "url": "https://icube.unistra.fr",
+      "startDate": "2014",
+      "endDate": "2020",
+      "summary": "Mechatronic design and management of the additive manufacturing center at the IRIS platform (Imaging, Robotics and Innovation for Health).",
+      "highlights": ["Mechatronic design for multidisciplinary research projects (ANR, FUI BPI, etc.), covering TRL 1 to 7 in the field of medical and surgical robotics."]
+    }
+  ],
   "volunteer": [
     {
       "organization": "Volunteer firefighter",
