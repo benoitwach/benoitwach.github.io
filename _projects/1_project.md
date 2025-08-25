@@ -1,25 +1,24 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: ARC project
+description: An innovative passive steerable needle for accurate multimodal image-guided percutaneous interventions whose stiffness can be controlled at the fingertip
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The ARC solution will not only help healthcare professionals by facilitating their practice with non-linear insertion approaches but will also offer many advantages from a medical point of view:
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    Passive needle as safe as standard needles.
+    Reduced trauma and infection risks, increased accuracy, and reduced operation time.
+    Size, material and configurations designed on demand depending on the application.
+    Multimodal compatibility (Fluoroscopy, CT scan, US scan, MRI)
+    Coaxial needle tool can be adapted on demand
     ---
+
+This innovation is the brainchild of Dr. Ing. Lennart RUBBERT (ICube at INSA Strasbourg - UMR CNRS University of Strasbourg 7357 / France) and Dr. Ing. Charles BAUR (Instant-Lab at EPFL / Switzerland), who both have a significant experience in MedTech projects
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
