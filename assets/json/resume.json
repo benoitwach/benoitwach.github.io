@@ -5,7 +5,7 @@
     "image": "",
     "email": "benoit.wach@icloud.com",
     "phone": "+33 6 32 75 48 59",
-    "url": "https://linkedin.com/johnwilliams",
+    "url": "www.linkedin.com/in/benoitwach",
     "summary": "Research engineer in mechanical and mechatronic design, specialized in additive manufacturing and medical robotics. Expert at CNRS (ICube, Strasbourg) in mechatronic design and integration, additive manufacturing center management, and research support in medical robotics.",
     "location": {
       "address": "19 rue de la grotte",
@@ -17,25 +17,21 @@
 
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-        
+        "network": "linkedin",
+        "username": "BenoitWACH",
+        "url": "www.linkedin.com/in/benoitwach"
       }
     ]
   },
-  "Present work": [
+  "work": [
     {
       "name": "CNRS - ICube Laboratory (UMR 7357), Strasbourg",
       "position": "Research Engineer",
       "url": "https://icube.unistra.fr",
       "startDate": "2020-01-01",
-      "endDate": "",
+      "endDate": "Today",
       "summary": "Mechatronic design and management of the additive manufacturing center at the IRIS platform (Imaging, Robotics and Innovation for Health).",
-      "highlights": ["Expertise in medical robotics and additive manufacturing",
-        "Management of a mechatronic and electronic prototyping workshop",
-        "Support for interdisciplinary research teams",
-        "Project management: ANR, SATT, ITI HealthTech"]
+      "highlights": ["Expertise in medical robotics and additive manufacturing, Management of a mechatronic and electronic prototyping workshop, Support for interdisciplinary research teams, Project management: ANR, SATT, ITI HealthTech"]
     }
   ],
   "volunteer": [
@@ -46,13 +42,8 @@
       "url": "https://www.sis67.alsace/fr",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": ["Volunteer Firefighter – Non-Commissioned Officer (Staff Sergeant) in a Fire and Rescue Station.",
-      "Emergency response experience in:",
-        "- Emergency medical assistance (first aid & casualty care)",
-        "- Structural firefighting (building fires)",
-        "- Road traffic accidents (vehicle extrication & rescue)",
-        "- Various emergency operations (floods, technical rescues, hazardous situations)"],
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": ["Volunteer Firefighter – Non-Commissioned Officer (Staff Sergeant) in a Fire and Rescue Station."],
+      "highlights": ["- Emergency medical assistance (first aid & casualty care)", "- Structural firefighting (building fires)", "- Road traffic accidents (vehicle extrication & rescue)", "- Various emergency operations (floods, technical rescues, hazardous situations)" ]
     }
   ],
   "education": [
@@ -151,25 +142,158 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Development of a cost-effective 3D-printed MRI phantom for enhanced teaching of system performance and image quality concept",
+      "publisher": "Springer Verlag (Germany)",
+      "releaseDate": "to be published",
+      "url": null,
+      "summary": "IF : 2.5, SNIP : 0.812, SJR : 0.57"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Parsimonious technologies for sensing upper limb muscles activation",
+      "publisher": "IEEE",
+      "releaseDate": "2023-10",
+      "url": null,
+      "summary": null
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Robotized Additive Manufacturing of Silicone for Skeleton-Reinforced Linear Soft Actuators",
+      "publisher": "IEEE-RAS",
+      "releaseDate": "2023-04",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "DEVELOPMENT OF PRECLINICAL MRI ELASTOGRAPHY AT 7T: AN ORIGINAL APPROACH FOR THE NON-INVASIVE MECHANICAL CHARACTERIZATION OF MOUSE ORGANS",
+      "publisher": "Fédération de Médecine Translationnelle de Strasbourg",
+      "releaseDate": "2023-06",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "A new versatile MR-guided high-intensity focused ultrasound (HIFU) device for the treatment of musculoskeletal tumors",
+      "publisher": "Nature Publishing Group",
+      "releaseDate": "2022",
+      "url": null,
+      "summary": "IF : 3.9, SNIP : 1.213, SJR : 0.874"
+    },
+    {
+      "name": "Investigation of PolyVinyl Chloride Plastisol Tissue-Mimicking Phantoms for MR- and Ultrasound-Elastography",
+      "publisher": "Frontiers Research Foundation",
+      "releaseDate": "2020-12",
+      "url": null,
+      "summary": "IF : 2.1, SNIP : 0.9, SJR : 0.483"
+    },
+    {
+      "name": "A new versatile MR-guided high-intensity Focused Ultrasound (MRgHIFU) device: system performance assessment and clinical feasibility",
+      "publisher": "Interventional MRI Symposium",
+      "releaseDate": "2022-10",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "A nozzle for 3D printing, a system to control said nozzle and a 3D printing device comprising said system",
+      "publisher": "European Patent Office",
+      "releaseDate": "2022-11-04",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Polyvinyl chloride-plastisol: a soft tissue-mimicking phantom dedicated to multi-modality elastography",
+      "publisher": "SPIE Photonics West",
+      "releaseDate": "2020-02",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Investigation of a soft tissue-mimicking phantom dedicated to multi-modality elasticity imaging",
+      "publisher": "European Society for Molecular Imaging",
+      "releaseDate": "2019-01",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "An ultrasound probe indenter for the non-linear mechanical characterization of soft tissues",
+      "publisher": "International Tissue Elasticity Conference",
+      "releaseDate": "2018-09",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "A 3D-PRINTED NEEDLE DRIVER BASED ON AUXETIC STRUCTURE AND INCHWORM KINEMATICS",
+      "publisher": "ASME",
+      "releaseDate": "2018-08",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Observations and experiments for the definition of a new robotic device dedicated to CT, CBCT and MRI-guided percutaneous procedures",
+      "publisher": "IEEE Engineering in Medicine and Biology Society",
+      "releaseDate": "2018-07",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Preclinical assessment of a new robotic device applied to minimize operators’ X-ray exposure during needle insertion under CBCT-guidance",
+      "publisher": "Cardiovascular and Interventional Radiology Society of Europe",
+      "releaseDate": "2018-01",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "A new multimodal 3D printed robotic assistant for interventional radiology",
+      "publisher": "Surgetica",
+      "releaseDate": "2017-11",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Participation d'une unité de radiologie interventionnelle au développement d'un matériel innovant",
+      "publisher": "Association française du personnel paramédical d'électroradiologie",
+      "releaseDate": "2016-07",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "In vivo monitoring of percutaneous thermal ablation by simultaneous MR Elastography and Thermometry",
+      "publisher": "International Society for Magnetic Resonance in Medicine",
+      "releaseDate": "2016-05",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Pneumatic device for holding and moving an elongate object, and medical system incorporating such a device",
+      "publisher": "US Patent Office",
+      "releaseDate": "2016-11-24",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Dispositif pneumatique de maintien et de déplacement d’un objet allongé et système médical intégrant un tel dispositif",
+      "publisher": "French Patent Office",
+      "releaseDate": "2015-11-25",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "Development of a Quadrotor based on an Innovative Composite Shape with Carbon and Kevlar Structure",
+      "publisher": "International Micro Air Vehicle Conference",
+      "releaseDate": "2013-09",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "La cryothérapie tumorale par voie percutanée sous contrôle d’imagerie",
+      "publisher": "Journées Françaises de Radiologie",
+      "releaseDate": "2010-10",
+      "url": null,
+      "summary": null
+    },
+    {
+      "name": "MOS-AK: Open compact modeling forum",
+      "publisher": "International Workshop on Compact Modeling",
+      "releaseDate": "2007-01",
+      "url": null,
+      "summary": null
     }
   ],
   "skills": [
