@@ -48,14 +48,27 @@
   "volunteer": [
     {
       "organization": "Volunteer firefighter",
-      "location": "Zurich, Switzerland",
+      "role": "Sergeant",
+      "location": "Ville, France",
       "position": "Lead Organizer",
       "url": "https://www.sis67.alsace/fr",
       "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "endDate": "Present",
       "summary": ["Volunteer Firefighter – Non-Commissioned Officer (Staff Sergeant) in a Fire and Rescue Station."],
       "highlights": ["- Emergency medical assistance (first aid & casualty care)", "- Structural firefighting (building fires)", "- Road traffic accidents (vehicle extrication & rescue)", "- Various emergency operations (floods, technical rescues, hazardous situations)" ]
+    },
+        {
+      "organization": "Volunteer firefighter",
+       "role": "Active Member",
+      "location": "Neuve-Eglise, France",
+      "position": "Member",
+      "url": "https://www.decibulles.com/",
+      "startDate": "2014-04-01",
+      "endDate": "Present",
+      "summary": ["Décibulles – Music Festival & Cultural Association - Active Member"],
+      "highlights": ["Technical & Site Decoration Committee" ]
     }
+
   ],
   "education": [
  {
@@ -343,6 +356,18 @@
   ],
   "interests": [
     {
+      "name": "Scientific Research",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Mechatronics",
+        "Quantum RObotics",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    },
+    {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
@@ -367,9 +392,33 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "Current projects": [
     {
-      "name": "Quantum Computing",
+      "name": "ARC Project",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "BIFASI Projetct",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "RAMSAI Projetct",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "MAAPII Projetct",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",

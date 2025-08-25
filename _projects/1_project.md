@@ -4,7 +4,7 @@ title: ARC project
 description: An innovative passive steerable needle for accurate multimodal image-guided percutaneous interventions whose stiffness can be controlled at the fingertip
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: research activities
 related_publications: true
 ---
 
