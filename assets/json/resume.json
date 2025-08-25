@@ -40,27 +40,66 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      "organization": "Volunteer firefighter",
       "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
-      "url": "https://example.com",
+      "url": "https://www.sis67.alsace/fr",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "summary": ["Volunteer Firefighter – Non-Commissioned Officer (Staff Sergeant) in a Fire and Rescue Station.",
+      "Emergency response experience in:",
+        "- Emergency medical assistance (first aid & casualty care)",
+        "- Structural firefighting (building fires)",
+        "- Road traffic accidents (vehicle extrication & rescue)",
+        "- Various emergency operations (floods, technical rescues, hazardous situations)"],
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
+ {
+      "institution": "Télécom Physique Strasbourg",
+      "location": "Strasbourg, France",
+      "url": "https://www.telecom-physique.fr",
+      "area": "Automation, Robotics",
+      "studyType": "Master IRIV",
+      "startDate": "2013-01-01",
+      "endDate": "2014-12-31",
+      "courses": ["Quadrotor Drone Project (IMAV12 Toulouse)"]
+    },
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "INSA Strasbourg",
+      "location": "Strasbourg, France",
+      "url": "https://www.insa-strasbourg.fr",
+      "area": "Mechatronics",
+      "studyType": "Engineering Degree",
+      "startDate": "2010-01-01",
+      "endDate": "2014-12-31",
+      "courses": ["Mechatronics – Materials options"]
+    },
+    {
+      "institution": "University of Strasbourg",
+      "location": "Strasbourg, France",
+      "area": "Physics and Engineering Sciences",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2009-01-01",
+      "endDate": "2010-12-31",
+      "courses": ["Physics", "Fluid Mechanics", "Droplet Physics"]
+    },
+    {
+      "institution": "University of Strasbourg",
+      "location": "Strasbourg, France",
+      "area": "Physics",
+      "studyType": "DEUG",
+      "startDate": "2006-01-01",
+      "endDate": "2009-12-31"
+    },
+    {
+      "institution": "Lycée J.B. Schwilgué",
+      "location": "Sélestat, France",
+      "area": "Engineering Sciences",
+      "studyType": "Scientific Baccalaureate",
+      "startDate": "2003-01-01",
+      "endDate": "2006-12-31"
     }
   ],
   "awards": [
@@ -74,45 +113,39 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "CACES F R482 Telehandler/Manitou",
+      "date": "2020-01-01",
+      "issuer": "Rousseau formation",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "CACES B R486 PEMP Aerial Platforms",
+      "date": "2020-01-01",
+      "issuer": "Rousseau formation",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Electrical Authorization BS + BE Tests",
+      "date": "2020-01-01",
+      "issuer": "University of Strasbourg",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "First Aid Responder (SST)",
+      "date": "2020-01-01",
+      "issuer": "University of Strasbourg",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Management of People and Teams",
+      "date": "2020-01-01",
+      "issuer": "CNRS, DICOM",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Nanomaterial Risk",
+      "date": "2020-01-01",
+      "issuer": "CNRS",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
@@ -141,28 +174,35 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Mechatronic Design",
+      "level": "Expert",
+      "keywords": ["CAD", "Solidworks", "Inventor", "PTC Creo", "Archicad", "Blender"]
+    },
+    {
+      "name": "Additive Manufacturing",
+      "level": "Expert",
+      "keywords": ["FDM", "SLA", "PolyJet", "Slicing", "Grabcad Print", "PreForm"]
+    },
+    {
+      "name": "Programming / Scientific Tools",
+      "level": "Intermediate",
+      "keywords": ["Matlab", "Labview", "QElectrotech"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Intermediate",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
