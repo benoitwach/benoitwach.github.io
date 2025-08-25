@@ -1,36 +1,41 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Benoît Wach",
+    "label": "Research Engineer CNRS",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "benoit.wach@icloud.com",
+    "phone": "+33 6 32 75 48 59",
+    "url": "https://linkedin.com/johnwilliams",
+    "summary": "Research engineer in mechanical and mechatronic design, specialized in additive manufacturing and medical robotics. Expert at CNRS (ICube, Strasbourg) in mechatronic design and integration, additive manufacturing center management, and research support in medical robotics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "19 rue de la grotte",
+      "postalCode": "67220",
+      "city": "Bassemberg",
+      "countryCode": "FR",
+      "region": "Alsace"
     },
+
     "profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
+        
       }
     ]
   },
-  "work": [
+  "Present work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "CNRS - ICube Laboratory (UMR 7357), Strasbourg",
+      "position": "Research Engineer",
+      "url": "https://icube.unistra.fr",
+      "startDate": "2020-01-01",
+      "endDate": "",
+      "summary": "Mechatronic design and management of the additive manufacturing center at the IRIS platform (Imaging, Robotics and Innovation for Health).",
+      "highlights": ["Expertise in medical robotics and additive manufacturing",
+        "Management of a mechatronic and electronic prototyping workshop",
+        "Support for interdisciplinary research teams",
+        "Project management: ANR, SATT, ITI HealthTech"]
     }
   ],
   "volunteer": [
